@@ -7,3 +7,6 @@ cambio antes del commit
 cambio antes de crear una nueva rama
 
 voy a crear un conflicto con las ramas
+
+cambio desde la nueva rama
+
