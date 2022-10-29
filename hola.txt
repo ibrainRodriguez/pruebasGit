@@ -3,3 +3,5 @@ hola me gustaria proebar git
 a ver que pasa en git
 
 cambio antes del commit
+
+cambio antes de crear una nueva rama
