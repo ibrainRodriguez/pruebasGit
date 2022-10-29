@@ -1,2 +1,6 @@
+Hola. ¿Qué tal, soy yo de nuevo? este es la modificación 2
+
 Hola, ¿qué tal? este es un documento de prueba
-Esta es la modificación 2
+Esta es la modificación 1
+
+esta también es parte de la modificación 2
