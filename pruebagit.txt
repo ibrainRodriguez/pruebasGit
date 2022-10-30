@@ -10,7 +10,3 @@ voy a agregar otra modificación 3
 Estoy creando un cambio desde la rama ramaNueva
 
 estoy agregando 
-
-agregando cambio que no se vera
-
-Estas lineas no estaran
